@@ -59,8 +59,7 @@ Para iniciar o projeto localmente, siga os passos abaixo:
 
 ## 📷 Capturas de Tela
 
-![Tela Principal](link-para-sua-imagem-tela-principal)
-![Tela de Apostas](link-para-sua-imagem-tela-apostas)
+![Telas](https://github.com/user-attachments/assets/80c2a37d-8d16-492f-bea5-65f5512f4743)
 
 ## 🤝 Contribuições
 
@@ -80,9 +79,5 @@ Este projeto está licenciado sob a Licença MIT - veja o [LICENSE](LICENSE) par
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para me contatar:
 
-- **Email:** seu-email@example.com
-- **LinkedIn:** [Seu Perfil LinkedIn](link-para-seu-perfil-linkedin)
-
----
-
-Sinta-se livre para ajustar qualquer parte do README, adicionar mais seções ou modificar conforme necessário. Se precisar de ajuda para ajustar algo ou incluir mais informações, é só avisar!
+- **Email:** luamelosilva28@gmail.com
+- **LinkedIn:** [Seu Perfil LinkedIn](https://www.linkedin.com/in/luamelosilva/)
